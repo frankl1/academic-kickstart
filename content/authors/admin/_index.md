@@ -24,6 +24,7 @@ interests:
 - Time Series Analysis
 - Machine Learning and Deep Learning
 - Artificial Intelligence
+- Taekwondo
 
 education:
   courses:
