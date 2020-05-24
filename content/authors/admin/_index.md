@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michael Franklin MBOUOPDA
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Computer Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: LIMOS - Universty of Clermont Auvergne
+  url: "https://limos.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Currently, my main research interest is the analysis of uncertain time series.
 
 interests:
+- Time Series Analysis
+- Machine Learning and Deep Learning
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Machine Learning
+    institution: LIMOS, University of Clermont Auvergne
+    yeah: from Oct 2019 to now
+  - course: Master of computer Science
+    institution: University of Clermont Auvergne
+    year: from Sep 2018 to Sep 2019
+  - course: Master of Computer Science
+    institution: University of Yaounde 1
+    year: from Sep 2016 to Sep 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:michael.mbouopda@uca.fr".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MichaelFrankl1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=1uw8ycIAAAAJ&hl=fr
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/michaelfrankl1/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/frankl1
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student at the University Of Clermont Auvergne , with the Laboratory of Computing, Modelling and Optimization of the Systems
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in Machine Learning and Artificial Intelligence in general. Currenty, I am working on the classification of uncertain time series data.

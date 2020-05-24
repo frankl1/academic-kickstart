@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Michael Franklin MBOUOPDA"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -65,6 +65,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 3
+
+baseurl = "https://frankl1.github.io/"
 
 [imaging]
   resampleFilter = "lanczos"
