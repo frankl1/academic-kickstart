@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Machine Learning
     institution: LIMOS, University of Clermont Auvergne
-    yeah: from Oct 2019 to now
+    year: from Oct 2019 to now
   - course: Master of computer Science
     institution: University of Clermont Auvergne
     year: from Sep 2018 to Sep 2019
