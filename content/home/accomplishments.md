@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
+  title = "Deep Learning Specialization"
+  url = "https://www.coursera.org/specializations/deep-learning"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/9KPM47PGQAN2"
+  date_start = "2020-07-06"
+  date_end = "2020-07-21"
+  description = "In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach."
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
   title = "Practical Time Series Analysis"
   url = "https://www.coursera.org/learn/practical-time-series-analysis"
   certificate_url = ""
