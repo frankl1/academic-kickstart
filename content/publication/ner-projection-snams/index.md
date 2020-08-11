@@ -3,7 +3,7 @@ title: "A Word Representation to Improve Named Entity Recognition in Low-resourc
 authors:
 - admin
 - Paulin Melatagia Yonta
-date: "2029-12-16"
+date: "2019-12-16"
 doi: "10.1109/SNAMS.2019.8931727"
 
 # Schedule page publish date (NOT publication's date).

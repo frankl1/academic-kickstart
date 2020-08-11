@@ -3,23 +3,23 @@ title: "Classification des Séries Temporelles Incertaines par Transformation Sh
 authors:
 - admin
 - Engelbert MEPHU NGUIFO
-date: "2019-12-10"
+date: "2020-07-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2020-07-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Via *arXiv*
-publication_short: ""
+publication: In *Conférence Nationale en Intelligence Artificiel*
+publication_short: In *CNIA*
 
-abstract: La classification des séries temporelles est une tâche utilisée dans divers domaines tels que la météorologie, la médecine et la physique. Elle a pour but de classer des objets modélisés sous forme de séries temporelles. Des algorithmes toujours plus efficaces ont vu le jour durant cette dernière décennie pour accomplir cette tâche. Parmi ces algorithmes, il y a ceux basés sur la transformation en shapelet. Cependant aucun de ces derniers n’est applicable dans le cadre des séries temporelles incertaines. En utilisant les techniques de propagation de l’incertitude, nous proposons dans cet article une nouvelle mesure de dissimilarité incertaine que nous utilisons ensuite pour adapter la transformation en shapelet aux séries temporelles incertaines. Une validation expérimentale sur des données de la littérature montre l’intérêt de notre approche.
+abstract: La classification des séries temporelles est une tâche qui consiste à classifier les données chronologiques. Elle est utilisée dans divers domaines tels que la météorologie, la médecine et la physique. Plusieurs techniques performantes ont été proposées durant les dix dernières années pour accomplir cette tâche. Cependant, elles ne prennent pas explicitement en compte l’incertitude dans les données. En utilisant la propagation de l’incertitude, nous proposons une nouvelle mesure de dissimilarité incertaine basée sur la distance euclidienne. Nous montrons également comment faire la classification de séries temporelles incertaines en couplant cette mesure avec la méthode de transformation shapelet, l’une des méthodes les plus performantes pour cette tâche. Une évaluation expérimentale de notre contribution est faite sur le dépôt de données temporelles UCR.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://hal.uca.fr/hal-02394444/document
+url_pdf: http://pfia2020.fr/wp-content/uploads/2020/06/actes_CNIA_CH_PFIA2020.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
