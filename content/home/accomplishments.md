@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = "In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach."
 
 [[item]]
+  organization = "Fun-Mooc"
+  organization_url = "https://www.fun-mooc.fr"
+  title = "Research integrity in scientific professions"
+  url = "https://www.fun-mooc.fr/courses/course-v1:Ubordeaux+28007+session02/info"
+  certificate_url = "https://www.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:Ubordeaux+28007+session02_68b961fdec62869fa1ff0e7828f60288.pdf"
+  date_start = "2020-06-01"
+  date_end = "2020-07-01"
+  description = "Learn the integrity principles (Reliability, Honesty, Respect and Responsibility) that must gouvern any scientific reasearch"
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Practical Time Series Analysis"
