@@ -76,4 +76,4 @@ user_groups:
 
 I am a PhD student at the University Of Clermont Auvergne , with the Laboratory of Computing, Modelling and Optimization of the Systems
 
-I am interested in Machine Learning and Artificial Intelligence in general. Currenty, I am working on the classification of uncertain time series data.
+I am interested in Machine Learning and Artificial Intelligence in general. Currently, I am working on the classification of uncertain time series data.
