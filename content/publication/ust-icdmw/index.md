@@ -1,13 +1,13 @@
 ---
-title: "Classification des Séries Temporelles Incertaines par Transformation Shapelet"
+title: "Uncertain Time Series Classification with Shapelet Transform"
 authors:
 - admin
 - Engelbert MEPHU NGUIFO
-date: "2020-07-01"
-doi: ""
+date: "2021-02-16"
+doi: "10.1109/ICDMW51313.2020.00044"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-01"
+publishDate: "2021-02-16"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: "2020-07-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conférence Nationale en Intelligence Artificiel*
-publication_short: In *CNIA*
+publication: In *2020 International Conference on Data Mining Workshops (ICDMW)*
+publication_short: In *ICDMW*
 
-abstract: La classification des séries temporelles est une tâche qui consiste à classifier les données chronologiques. Elle est utilisée dans divers domaines tels que la météorologie, la médecine et la physique. Plusieurs techniques performantes ont été proposées durant les dix dernières années pour accomplir cette tâche. Cependant, elles ne prennent pas explicitement en compte l’incertitude dans les données. En utilisant la propagation de l’incertitude, nous proposons une nouvelle mesure de dissimilarité incertaine basée sur la distance euclidienne. Nous montrons également comment faire la classification de séries temporelles incertaines en couplant cette mesure avec la méthode de transformation shapelet, l’une des méthodes les plus performantes pour cette tâche. Une évaluation expérimentale de notre contribution est faite sur le dépôt de données temporelles UCR.
+abstract: Time series classification is a task that aims at classifying chronological data. It is used in a diverse range of domains such as meteorology, medicine and physics. In the last decade, many algorithms have been built to perform this task with very appreciable accuracy. However, applications where time series have uncertainty has been under-explored. Using uncertainty propagation techniques, we propose a new uncertain dissimilarity measure based on Euclidean distance. We then propose the uncertain shapelet transform algorithm for the classification of uncertain time series. The large experiments we conducted on state of the art datasets show the effectiveness of our contribution. The source code of our contribution and the datasets we used are all available on a public repository.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-url_pdf: http://pfia2020.fr/wp-content/uploads/2020/06/actes_CNIA_CH_PFIA2020.pdf
+url_pdf: https://arxiv.org/pdf/2102.02090.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
