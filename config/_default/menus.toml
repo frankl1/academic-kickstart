@@ -37,5 +37,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "https://cvdesignr.com/p/5ec15a132d36c?hl=fr_FR"
+    url = "files/cv.pdf"
     weight = 70
